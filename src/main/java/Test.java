@@ -6,5 +6,8 @@ public class Test {
 
     public void version(){
         System.out.println("感谢！");
+        String a;
+        a = "你好";
+        System.out.println(a);
     }
 }
